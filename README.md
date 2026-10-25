@@ -27,9 +27,9 @@ ${ \space }$
 </td>
 </tr>
 <tr>
-<td align="center">${\color{#2b758a} ꒰১ \space 𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑 \space ໒꒱}$</td>
-<td align="center">${\color{#540434} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
 <td align="center">${\color{#2b758a} ꒰১ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ໒꒱}$</td>
+<td align="center">${\color{#540434} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
+<td align="center">${\color{#2b758a} ꒰১ \space 𝖌𝖚𝖓𝖘 \space ໒꒱}$</td>
 </tr>
 </table>
 
