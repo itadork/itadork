@@ -42,12 +42,12 @@ ${ \space }$
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
 
-${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://pronouns.cc/@dihpressed)
+[𝖕𝖗𝖓𝖘](https://pronouns.cc/@dihpressed) ${\color{#a3535f} from \space}$ ${\color{#e0b577} }$
 
-${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://listography.com/nyanruto?m=6404158689)
+[𝖑𝖎𝖘𝖙𝖔](https://listography.com/nyanruto?m=6404158689) ${\color{#a3535f} from \space}$ ${\color{#e0b577} }$
 
-${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://zyo.lol/for.her)
+[𝔃𝔂𝖔](https://zyo.lol/for.her) ${\color{#a3535f} from \space}$ ${\color{#e0b577} }$
 
-${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://acidbatz.carrd.co/)
+[𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑](https://acidbatz.carrd.co/) ${\color{#a3535f} from \space}$ ${\color{#e0b577} }$
 
 </details>
