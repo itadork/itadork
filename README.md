@@ -9,13 +9,13 @@
 
 
 
-<img width="497" height="386" alt="yujitunningwdog" src="https://github.com/user-attachments/assets/a084b543-3cf3-4ded-97fa-4c050f37901c" />
+<img width="397" height="286" alt="yujitunningwdog" src="https://github.com/user-attachments/assets/a084b543-3cf3-4ded-97fa-4c050f37901c" />
 
 
-<img width="497" height="428" alt="yujimegndog" src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" />
+<img width="397" height="328" alt="yujimegndog" src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" />
 
 
-<img width="497" height="338" alt="yujindoglying" src="https://github.com/user-attachments/assets/97d959e5-ef2f-41b6-8dd1-b81968bf4b14" />
+<img width="397" height="238" alt="yujindoglying" src="https://github.com/user-attachments/assets/97d959e5-ef2f-41b6-8dd1-b81968bf4b14" />
 
 
 
