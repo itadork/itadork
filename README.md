@@ -48,14 +48,4 @@ ${ \space }$
 
 
 
-
-
-  <td align="center">${\color{#2b758a} ꒰১ \space 𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑 \space ໒꒱}$</td>
-  <td align="center">${\color{#540434} ۶ৎ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ۶ৎ}$</td>
-  <td align="center">${\color{#2b758a} ꒰১ \space 𝔃𝔂𝖔 \space ໒꒱}$</td>
-</tr>
- </td> </tr> </table>
-
-
-
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
