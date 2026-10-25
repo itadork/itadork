@@ -50,6 +50,6 @@ ${ \space }$
 
 [𝔃](https://zyo.lol/for.her)${\color{#6c2c53} 𝔃𝔂𝖔 \space}$
 
-[♡](https://acidbatz.carrd.co/)${\color{#1e1559} 𝖒𝖆𝖎𝖑 \space}$
+[♡](https://acidbatz.carrd.co/)${\color{#311559} 𝖒𝖆𝖎𝖑 \space}$
 
 </details>
