@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itadork&label=×&color=3f0732&style=flat" alt="itadork" />
+<img src="https://komarev.com/ghpvc/?username=itadork&label=𓏵&color=3f0732&style=flat" alt="itadork" />
 </p>
 
 ### ${\color{#25305b}  ✘}$ ${\color{#2b758a} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#25305b}  ✘}$
