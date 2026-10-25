@@ -42,7 +42,7 @@ ${ \space }$
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
 
-[𝖕](https://pronouns.cc/@dihpressed) ${\color{#a3535f} 𝖕𝖗𝖓𝖘 \space}$
+[𝖕](https://pronouns.cc/@dihpressed)${\color{#a3535f} 𝖗𝖓𝖘 \space}$
 
 [𝖑𝖎𝖘𝖙𝖔](https://listography.com/nyanruto?m=6404158689) ${\color{#a3535f} from \space}$
 
