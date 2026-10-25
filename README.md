@@ -12,7 +12,7 @@ ${ \space }$
 <img width="147" height="116" alt="yujitunningwdog" src="https://github.com/user-attachments/assets/a084b543-3cf3-4ded-97fa-4c050f37901c" />
 
 
-<img width="147" height="128" alt="yujimegndog" src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" />
+<img width="147" height="138" alt="yujimegndog" src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" />
 
 
 <img width="147" height="128" alt="yujindoglying" src="https://github.com/user-attachments/assets/97d959e5-ef2f-41b6-8dd1-b81968bf4b14" />
