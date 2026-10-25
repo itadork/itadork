@@ -44,6 +44,6 @@ ${ \space }$
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
 
-[𝖕](https://pronouns.cc/@dihpressed)${\color{#f0e6cd} 𝖗𝖓𝖘 \space}$. [𝖑](https://listography.com/nyanruto?m=6404158689)${\color{#c3a284} 𝖎𝖘𝖙𝖔 \space}$. [𝔃](https://zyo.lol/for.her)${\color{#6c2c53} 𝔂𝖔 \space}$. [♡](https://acidbatz.carrd.co/)${\color{#2a0f55} 𝖒𝖆𝖎𝖑 \space}$
+[𝖕](https://pronouns.cc/@dihpressed)${\color{#f0e6cd} 𝖗𝖓𝖘 \space}$. [𝖑](https://listography.com/nyanruto?m=6404158689)${\color{#c3a284} 𝖎𝖘𝖙𝖔 \space}$. [𝔃](https://zyo.lol/for.her)${\color{#6c2c53} 𝔂𝖔 \space}$. [♡](https://acidbatz.carrd.co/)${\color{#2a0f55} 𝖒𝖆𝖎𝖑 \space}$.
 
 </details>
