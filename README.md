@@ -24,13 +24,13 @@ ${ \space }$
 
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="170">
 <img src="https://github.com/user-attachments/assets/a084b543-3cf3-4ded-97fa-4c050f37901c" width="147" height="116" alt="yujitunningwdog" />
 </td>
 <td align="center" width="170">
 <img src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" width="150" height="150" alt="yujimegndog" />
 </td>
-<td align="center" width="130">
+<td align="center" width="170">
 <img src="https://github.com/user-attachments/assets/97d959e5-ef2f-41b6-8dd1-b81968bf4b14" width="147" height="128" alt="yujindoglying" />
 </td>
 </tr>
