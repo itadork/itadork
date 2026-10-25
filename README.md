@@ -44,10 +44,10 @@ ${ \space }$
 
 [𝖕](https://pronouns.cc/@dihpressed)${\color{#a3535f} 𝖗𝖓𝖘 \space}$
 
-[𝖑𝖎𝖘𝖙𝖔](https://listography.com/nyanruto?m=6404158689) ${\color{#a3535f} from \space}$
+[𝖑](https://listography.com/nyanruto?m=6404158689)${\color{#a3535f} 𝖎𝖘𝖙𝖔 \space}$
 
-[𝔃𝔂𝖔](https://zyo.lol/for.her) ${\color{#a3535f} from \space}$
+[𝔃](https://zyo.lol/for.her)${\color{#a3535f} 𝔃𝔂𝖔 \space}$
 
-[𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑](https://acidbatz.carrd.co/) ${\color{#a3535f} from \space}$
+[𝖑](https://acidbatz.carrd.co/) ${\color{#a3535f} 𝖔𝖛𝖊𝖒𝖆𝖎𝖑 \space}$
 
 </details>
