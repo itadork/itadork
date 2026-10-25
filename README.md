@@ -3,11 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=itadork&label=✘&color=bc8f89&style=flat" alt="itadork" />
 </p>
 
-### ${\color{#25305b}  𓏵}$ ${\color{#0f0743} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#25305b}  𓏵}$
+### ${\color{#6b4e62}  𓏵}$ ${\color{#0f0743} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#6b4e62}  𓏵}$
 
 <img width="974" height="680" alt="yujinmeg" src="https://github.com/user-attachments/assets/973fed75-bf7c-4ae6-9edc-9839bfc6ba6d" />
 
-### ${\color{#25305b}  𓏵}$ ${\color{#0f0743} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#25305b}  𓏵}$
+### ${\color{#6b4e62}  𓏵}$ ${\color{#0f0743} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#6b4e62}  𓏵}$
 
 ${ \space }$
 
