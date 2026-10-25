@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itadork&label=𓏵&color=3f0732&style=flat" alt="itadork" />
+<img src="https://komarev.com/ghpvc/?username=itadork&label=✘&color=3f0732&style=flat" alt="itadork" />
 </p>
 
-### ${\color{#25305b}  ✘}$ ${\color{#2b758a} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#25305b}  ✘}$
+### ${\color{#25305b}  𓏵}$ ${\color{#2b758a} ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}$  ${\color{#25305b}  𓏵}$
 
 <img width="974" height="680" alt="yujinmeg" src="https://github.com/user-attachments/assets/973fed75-bf7c-4ae6-9edc-9839bfc6ba6d" />
 
