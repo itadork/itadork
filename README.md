@@ -38,7 +38,7 @@ ${ \space }$
 
 
 <details>
-<summary>${\color{#dfc18e} 𝖔𝖙𝖍𝖊𝖗 𝖑𝖎𝖓𝖐𝖘 }$</summary>
+<summary>${\color{#dfc18e} 𝖔𝖙𝖍𝖊𝖗 \space 𝖑𝖎𝖓𝖐𝖘 }$</summary>
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
 
