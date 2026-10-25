@@ -42,6 +42,9 @@ ${ \space }$
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
 
+${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://pronouns.cc/@dihpressed
+)
+
 ${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://listography.com/nyanruto?m=6404158689)
 
 </details>
