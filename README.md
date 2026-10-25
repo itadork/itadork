@@ -34,10 +34,14 @@ ${ \space }$
 </table>
 
 
+${ \space }$
 
 
-
-
-
+<details>
+<summary>${\color{#dfc18e} 𝖑𝖎𝖓𝖐𝖘 }$</summary>
 
 <img width="136" height="155" alt="jjktrio" src="https://github.com/user-attachments/assets/98de83ca-2184-49bf-88b6-67e9ccd1d23e" />
+
+${\color{#a3535f} from \space}$ ${\color{#e0b577} }$ [Cathyy](https://github.com/obsessedgojo)
+
+</details>
