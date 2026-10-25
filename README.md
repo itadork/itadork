@@ -19,7 +19,7 @@ ${ \space }$
 <td align="center" width="170">  <a href="https://kiribaku.atabook.org/">
 <img src="https://github.com/user-attachments/assets/a084b543-3cf3-4ded-97fa-4c050f37901c" width="147" height="116" alt="yujitunningwdog" />
 </td>
-<td align="center" width="170">  <a href="https://kiribaku.atabook.org/">
+<td align="center" width="170">  <a href="https://github.com/whatsahearrt">
 <img src="https://github.com/user-attachments/assets/80a8be57-7dd2-4e99-b5b3-64d11e9442f0" width="150" height="150" alt="yujimegndog" />
 </td>
 <td align="center" width="170">  <a href="https://guns.lol/suangel">
